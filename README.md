@@ -11,8 +11,3 @@ seconds, outputting the position in meters. The formula in math notation is:
 
 x(t) = 0.5 * a * t^2 + v_i * t * x_i
 
-Variables           Meaning                         Value
-a                   Acceleration (m/(s^2))          -9.81
-t                   Time (s)                        10
-v_i                 Initial velocity (m/s)          0
-x_i                 Initial position                0
